@@ -1,0 +1,73 @@
+<svg width="1080" height="480" viewBox="0 0 1080 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="480" fill="#0a0a12"/>
+  <!-- Background wave -->
+  <path d="M0 300 Q270 200 540 300 Q810 400 1080 300 L1080 480 L0 480 Z" fill="#0d0d1a"/>
+  <path d="M0 330 Q270 230 540 330 Q810 430 1080 330 L1080 480 L0 480 Z" fill="#0f0f20" opacity="0.6"/>
+  <!-- Stars/particles -->
+  <circle cx="80" cy="60" r="1.5" fill="#9ecb42" opacity="0.8"/>
+  <circle cx="200" cy="30" r="1" fill="#9ecb42" opacity="0.5"/>
+  <circle cx="350" cy="80" r="2" fill="#9ecb42" opacity="0.6"/>
+  <circle cx="500" cy="40" r="1" fill="#ffffff" opacity="0.3"/>
+  <circle cx="700" cy="70" r="1.5" fill="#9ecb42" opacity="0.7"/>
+  <circle cx="900" cy="30" r="1" fill="#ffffff" opacity="0.4"/>
+  <circle cx="1000" cy="90" r="2" fill="#9ecb42" opacity="0.5"/>
+  <!-- Chat bubble 1 (user) -->
+  <rect x="60" y="100" width="360" height="72" rx="8" fill="#1a1a2e" stroke="#2a2a4a" stroke-width="1"/>
+  <rect x="60" y="100" width="4" height="72" rx="2" fill="#9ecb42"/>
+  <text x="80" y="124" font-family="sans-serif" font-size="11" fill="#666" letter-spacing="1">YOU</text>
+  <text x="80" y="146" font-family="sans-serif" font-size="14" fill="#ffffff">"Build me a hero section with a rotating</text>
+  <text x="80" y="164" font-family="sans-serif" font-size="14" fill="#ffffff">title, stats, and a profile image"</text>
+  <!-- Arrow -->
+  <path d="M440 136 L480 136" stroke="#9ecb42" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <polygon points="480,131 490,136 480,141" fill="#9ecb42"/>
+  <!-- Chat bubble 2 (AI) -->
+  <rect x="500" y="100" width="360" height="72" rx="8" fill="#111120" stroke="#9ecb42" stroke-width="1" opacity="0.7"/>
+  <rect x="856" y="100" width="4" height="72" rx="2" fill="#9ecb42"/>
+  <text x="516" y="124" font-family="monospace" font-size="11" fill="#9ecb42" letter-spacing="1">CLAUDE</text>
+  <text x="516" y="146" font-family="monospace" font-size="12" fill="#aaa">◆ Reading codebase...</text>
+  <text x="516" y="164" font-family="monospace" font-size="12" fill="#9ecb42">◆ Writing hero-section.tsx ✓</text>
+  <!-- Result preview card -->
+  <rect x="160" y="220" width="320" height="200" rx="8" fill="#111111" stroke="#222" stroke-width="1"/>
+  <rect x="160" y="220" width="320" height="32" rx="8" fill="#1a1a1a"/>
+  <rect x="160" y="240" width="320" height="12" fill="#1a1a1a"/>
+  <circle cx="182" cy="236" r="5" fill="#FF5F57"/>
+  <circle cx="198" cy="236" r="5" fill="#FEBC2E"/>
+  <circle cx="214" cy="236" r="5" fill="#28C840"/>
+  <text x="320" y="240" font-family="monospace" font-size="10" fill="#444" text-anchor="middle">localhost:3000</text>
+  <!-- Mock page inside -->
+  <text x="200" y="278" font-family="sans-serif" font-size="18" fill="#ffffff" font-weight="300" letter-spacing="-1">Hello, I am Rohith</text>
+  <rect x="178" y="290" width="180" height="4" rx="2" fill="#333"/>
+  <rect x="178" y="300" width="140" height="4" rx="2" fill="#2a2a2a"/>
+  <rect x="178" y="318" width="70" height="22" rx="0" fill="#111111" stroke="#333" stroke-width="1"/>
+  <text x="213" y="333" font-family="sans-serif" font-size="9" fill="#fff" text-anchor="middle">Explore</text>
+  <rect x="256" y="318" width="70" height="22" rx="0" fill="transparent" stroke="#333" stroke-width="1"/>
+  <text x="291" y="333" font-family="sans-serif" font-size="9" fill="#aaa" text-anchor="middle">Contact</text>
+  <!-- Stats row -->
+  <rect x="178" y="352" width="60" height="40" rx="2" fill="#1a1a1a"/>
+  <text x="208" y="372" font-family="sans-serif" font-size="14" fill="#fff" text-anchor="middle" font-weight="300">6+</text>
+  <text x="208" y="386" font-family="sans-serif" font-size="8" fill="#666" text-anchor="middle">Experience</text>
+  <rect x="248" y="352" width="60" height="40" rx="2" fill="#1a1a1a"/>
+  <text x="278" y="372" font-family="sans-serif" font-size="14" fill="#fff" text-anchor="middle" font-weight="300">30+</text>
+  <text x="278" y="386" font-family="sans-serif" font-size="8" fill="#666" text-anchor="middle">Projects</text>
+  <rect x="318" y="352" width="60" height="40" rx="2" fill="#1a1a1a"/>
+  <text x="348" y="372" font-family="sans-serif" font-size="14" fill="#fff" text-anchor="middle" font-weight="300">28+</text>
+  <text x="348" y="386" font-family="sans-serif" font-size="8" fill="#666" text-anchor="middle">Guided</text>
+  <!-- Benefits panel right -->
+  <rect x="600" y="210" width="340" height="230" rx="8" fill="#0f1a0f" stroke="#1a3a1a" stroke-width="1"/>
+  <text x="620" y="240" font-family="sans-serif" font-size="11" fill="#9ecb42" letter-spacing="2">WHY VIBE CODE</text>
+  <line x1="620" y1="252" x2="924" y2="252" stroke="#1a3a1a" stroke-width="1"/>
+  <!-- Benefits list -->
+  <circle cx="634" cy="276" r="4" fill="#9ecb42"/>
+  <text x="648" y="280" font-family="sans-serif" font-size="13" fill="#ccc">Idea to prototype in minutes</text>
+  <circle cx="634" cy="308" r="4" fill="#9ecb42"/>
+  <text x="648" y="312" font-family="sans-serif" font-size="13" fill="#ccc">No context switching</text>
+  <circle cx="634" cy="340" r="4" fill="#9ecb42"/>
+  <text x="648" y="344" font-family="sans-serif" font-size="13" fill="#ccc">Design & code in parallel</text>
+  <line x1="620" y1="364" x2="924" y2="364" stroke="#1a3a1a" stroke-width="1"/>
+  <text x="620" y="385" font-family="sans-serif" font-size="11" fill="#e07b3f" letter-spacing="2">WATCH OUT FOR</text>
+  <circle cx="634" cy="408" r="4" fill="#e07b3f" opacity="0.8"/>
+  <text x="648" y="412" font-family="sans-serif" font-size="13" fill="#888">You still need to understand the code</text>
+  <!-- Glow effects -->
+  <ellipse cx="540" cy="140" rx="300" ry="60" fill="#9ecb42" opacity="0.03"/>
+  <ellipse cx="320" cy="340" rx="120" ry="50" fill="#9ecb42" opacity="0.04"/>
+</svg>

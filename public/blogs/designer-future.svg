@@ -1,0 +1,66 @@
+<svg width="1080" height="480" viewBox="0 0 1080 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="480" fill="#f6f5f2"/>
+  <!-- Background subtle grid -->
+  <line x1="0" y1="0" x2="1080" y2="480" stroke="#e4e1d8" stroke-width="0.5" opacity="0.4"/>
+  <line x1="1080" y1="0" x2="0" y2="480" stroke="#e4e1d8" stroke-width="0.5" opacity="0.4"/>
+  <!-- Human silhouette left -->
+  <ellipse cx="300" cy="160" rx="52" ry="55" fill="#111111"/>
+  <rect x="228" y="210" width="144" height="180" rx="72" fill="#111111"/>
+  <!-- Arms -->
+  <path d="M228 230 Q180 280 200 330" stroke="#111111" stroke-width="20" stroke-linecap="round" fill="none"/>
+  <path d="M372 230 Q420 280 400 330" stroke="#111111" stroke-width="20" stroke-linecap="round" fill="none"/>
+  <!-- Brain/creativity nodes inside head -->
+  <circle cx="285" cy="150" r="6" fill="#9ecb42"/>
+  <circle cx="305" cy="140" r="4" fill="#9ecb42" opacity="0.7"/>
+  <circle cx="315" cy="158" r="5" fill="#9ecb42" opacity="0.5"/>
+  <circle cx="295" cy="168" r="3" fill="#9ecb42" opacity="0.6"/>
+  <line x1="285" y1="150" x2="305" y2="140" stroke="#9ecb42" stroke-width="1" opacity="0.5"/>
+  <line x1="305" y1="140" x2="315" y2="158" stroke="#9ecb42" stroke-width="1" opacity="0.5"/>
+  <line x1="315" y1="158" x2="295" y2="168" stroke="#9ecb42" stroke-width="1" opacity="0.5"/>
+  <line x1="295" y1="168" x2="285" y2="150" stroke="#9ecb42" stroke-width="1" opacity="0.5"/>
+  <!-- Label -->
+  <text x="300" y="415" font-family="sans-serif" font-size="13" fill="#111" text-anchor="middle" font-weight="500" letter-spacing="2">HUMAN DESIGNER</text>
+  <!-- VS -->
+  <text x="540" y="260" font-family="sans-serif" font-size="48" fill="#e4e1d8" text-anchor="middle" font-weight="700">+</text>
+  <!-- AI Robot right -->
+  <rect x="700" y="108" width="144" height="130" rx="16" fill="#111111"/>
+  <!-- Robot face -->
+  <rect x="716" y="128" width="44" height="30" rx="4" fill="#9ecb42"/>
+  <rect x="784" y="128" width="44" height="30" rx="4" fill="#9ecb42"/>
+  <!-- Eye pupils -->
+  <rect x="726" y="136" width="24" height="14" rx="2" fill="#111"/>
+  <rect x="794" y="136" width="24" height="14" rx="2" fill="#111"/>
+  <!-- Mouth grid -->
+  <rect x="728" y="176" width="88" height="12" rx="3" fill="#9ecb42" opacity="0.4"/>
+  <rect x="728" y="192" width="60" height="8" rx="2" fill="#9ecb42" opacity="0.2"/>
+  <!-- Antenna -->
+  <line x1="772" y1="108" x2="772" y2="80" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="772" cy="74" r="8" fill="#9ecb42"/>
+  <!-- Body -->
+  <rect x="706" y="238" width="132" height="130" rx="8" fill="#111111"/>
+  <!-- Body details -->
+  <rect x="722" y="258" width="40" height="6" rx="3" fill="#9ecb42" opacity="0.6"/>
+  <rect x="722" y="272" width="60" height="6" rx="3" fill="#9ecb42" opacity="0.3"/>
+  <rect x="722" y="286" width="48" height="6" rx="3" fill="#9ecb42" opacity="0.4"/>
+  <circle cx="800" cy="278" r="18" fill="#9ecb42" opacity="0.15" stroke="#9ecb42" stroke-width="1"/>
+  <text x="800" y="283" font-family="monospace" font-size="11" fill="#9ecb42" text-anchor="middle">AI</text>
+  <!-- Arms -->
+  <rect x="660" y="248" width="46" height="16" rx="8" fill="#111111"/>
+  <rect x="838" y="248" width="46" height="16" rx="8" fill="#111111"/>
+  <!-- Connection nodes between -->
+  <circle cx="460" cy="240" r="8" fill="#e4e1d8" stroke="#111" stroke-width="1.5"/>
+  <circle cx="500" cy="220" r="5" fill="#e4e1d8" stroke="#111" stroke-width="1"/>
+  <circle cx="540" cy="240" r="8" fill="#e4e1d8" stroke="#111" stroke-width="1.5"/>
+  <circle cx="580" cy="220" r="5" fill="#e4e1d8" stroke="#111" stroke-width="1"/>
+  <circle cx="620" cy="240" r="8" fill="#e4e1d8" stroke="#111" stroke-width="1.5"/>
+  <line x1="460" y1="240" x2="500" y2="220" stroke="#e4e1d8" stroke-width="1.5"/>
+  <line x1="500" y1="220" x2="540" y2="240" stroke="#e4e1d8" stroke-width="1.5"/>
+  <line x1="540" y1="240" x2="580" y2="220" stroke="#e4e1d8" stroke-width="1.5"/>
+  <line x1="580" y1="220" x2="620" y2="240" stroke="#e4e1d8" stroke-width="1.5"/>
+  <!-- Label -->
+  <text x="772" y="415" font-family="sans-serif" font-size="13" fill="#111" text-anchor="middle" font-weight="500" letter-spacing="2">AI TOOLS</text>
+  <!-- Output card bottom -->
+  <rect x="340" y="400" width="400" height="52" rx="4" fill="#111111"/>
+  <text x="540" y="421" font-family="sans-serif" font-size="11" fill="#9ecb42" text-anchor="middle" letter-spacing="1">OUTCOME</text>
+  <text x="540" y="440" font-family="sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">Better products, faster — not replaced</text>
+</svg>
