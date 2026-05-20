@@ -47,7 +47,7 @@ const work = {
     {
       name: "Progrize",
       description:
-        "Progrize is your all-in-one career platform discover jobs, mentorship, referrals, and growth opportunities. For professionals and organisations.",
+        "A unified AI-powered career platform combining intelligent job matching, mentorship, CV analysis, and application tracking — replacing five fragmented tools with one coherent experience for professionals and the organisations hiring them.",
       href: "/case-studies/progrize",
       previewAlt: "Progrize platform preview",
       previewImage: "/case-studies/progrize.svg",
@@ -56,7 +56,7 @@ const work = {
     {
       name: "DINO",
       description:
-        "Progrize is your all-in-one career platform discover jobs, mentorship, referrals, and growth opportunities. For professionals and organisations.",
+        "A fine dining companion app that transforms how people discover curated restaurants, pre-browse full menus before booking, reserve tables in three taps, and earn tiered loyalty rewards — making every meal a considered experience, not a transaction.",
       href: "/case-studies/dino",
       previewAlt: "DINO platform preview",
       previewImage: "/case-studies/dino.png",
@@ -65,7 +65,7 @@ const work = {
     {
       name: "Hound Mobility",
       description:
-        "Progrize is your all-in-one career platform discover jobs, mentorship, referrals, and growth opportunities. For professionals and organisations.",
+        "A Kochi-based urban mobility platform unifying hourly rentals, premium chauffeur rides, airport transfers, and outstation trips — with upfront transparent pricing, real-time CO₂ tracking, and a booking flow built entirely on trust.",
       href: "/case-studies/hound-mobility",
       previewAlt: "Hound Mobility platform preview",
       previewImage: "/case-studies/hound.png",
